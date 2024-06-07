@@ -7,5 +7,5 @@
 ### 2.1 [数据密集型应用系统设计](https://github.com/L-Twilight/read/blob/main/book/system.design/Designing%20Data-Intensive%20Applications.md)(Designing Data-Intensive Applications)
 ### 2.2 软件设计
 ## 3. 架构设计
-### 3.1 [从0开始学架构]()
+### 3.1 [从0开始学架构](https://github.com/L-Twilight/reading-notes/blob/main/book/architecture.design/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E6%9E%B6%E6%9E%84.md)
 # 源码
